@@ -1,0 +1,9 @@
+C:\Users\JonasRasmussen\source\repos\DRMusic\DRMusic\bin\Debug\netcoreapp2.1\DRMusic.deps.json
+C:\Users\JonasRasmussen\source\repos\DRMusic\DRMusic\bin\Debug\netcoreapp2.1\DRMusic.dll
+C:\Users\JonasRasmussen\source\repos\DRMusic\DRMusic\bin\Debug\netcoreapp2.1\DRMusic.pdb
+C:\Users\JonasRasmussen\source\repos\DRMusic\DRMusic\obj\Debug\netcoreapp2.1\DRMusic.csprojAssemblyReference.cache
+C:\Users\JonasRasmussen\source\repos\DRMusic\DRMusic\obj\Debug\netcoreapp2.1\DRMusic.csproj.CoreCompileInputs.cache
+C:\Users\JonasRasmussen\source\repos\DRMusic\DRMusic\obj\Debug\netcoreapp2.1\DRMusic.AssemblyInfoInputs.cache
+C:\Users\JonasRasmussen\source\repos\DRMusic\DRMusic\obj\Debug\netcoreapp2.1\DRMusic.AssemblyInfo.cs
+C:\Users\JonasRasmussen\source\repos\DRMusic\DRMusic\obj\Debug\netcoreapp2.1\DRMusic.dll
+C:\Users\JonasRasmussen\source\repos\DRMusic\DRMusic\obj\Debug\netcoreapp2.1\DRMusic.pdb
